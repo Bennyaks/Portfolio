@@ -35,6 +35,7 @@ I am continuously improving my knowledge through hands-on projects, online learn
 - NumPy
 - Matplotlib
 - Scikit-learn
+-  Deep Learning
 
 ### Databases
 - MySQL
@@ -54,8 +55,29 @@ I am continuously improving my knowledge through hands-on projects, online learn
 - XAMPP
 
 ### Currently Learning
-- Deep Learning
 - TensorFlow
 - PyTorch
 - MLOps
 - Cloud Computing
+---
+
+## 🚀 Featured Projects
+
+### [CRDQE — Civil Registration Data Quality Engine](https://github.com/Bennyaks/CRDQE)
+A desktop application (Python, Tkinter) that validates and cleans Kenyan civil
+registration (Birth/Death) Excel workbooks against configurable schemas —
+detecting mismatched date formats, cross-field inconsistencies, and invalid
+categorical values, with an interactive GUI and packaged Windows executable.
+
+- Schema-driven column mapping (alias matching → fuzzy matching → value matching fallback)
+- Custom rule engine for dataset-specific validation logic
+- Automatic date-format correction for implausible registration statuses
+- Packaged as a standalone `.exe` via PyInstaller
+
+  
+## 🍔 Burger Sales Forecasting Using Machine Learning & Deep Learning
+
+Developed an end-to-end sales forecasting system using weather and historical sales data from a ten-region restaurant chain. Built complete data preprocessing and feature engineering pipelines, trained and compared LightGBM and LSTM models, and achieved the best performance with LightGBM (R² = 0.8068). The project includes model evaluation, deployment preparation for AWS SageMaker, and comprehensive technical documentation.
+
+Tech Stack: Python, Pandas, NumPy, Scikit-learn, LightGBM, TensorFlow/Keras, AWS SageMaker, Jupyter Notebook.
+---
